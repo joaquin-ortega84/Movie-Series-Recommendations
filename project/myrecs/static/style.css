@@ -1,0 +1,29 @@
+.navigation-bar {
+  background-color: black;
+  color: white;
+  margin-bottom: 50px;
+  padding: 1rem;
+
+}
+
+.navigation-bar li a{
+  color: white;
+}
+
+.navigation-bar li :hover {
+  color: red;
+}
+.navigation-bar li :focus {
+  color: green;
+}
+
+.imdb {
+  width: 80vh;
+  margin: auto;
+}
+
+.steps {
+  width: 80vh;
+  margin: auto;
+  margin-top: 5%;
+}
